@@ -52,3 +52,25 @@ htmlcov/
 *.bak
 *.swp
 *.tmp
+
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+
+# Checkpoints and large model/data files
+.ipynb_checkpoints/
+*.pkl
+*.h5
+*.joblib
