@@ -1,0 +1,19 @@
+.react-datepicker__day--booked {
+  background-color: #ffebee;
+  color: #d32f2f;
+  text-decoration: line-through;
+}
+
+.react-datepicker__day--booked:hover {
+  background-color: #ffcdd2;
+}
+
+.booked-date {
+  background-color: #ffebee;
+  color: #d32f2f;
+  text-decoration: line-through;
+}
+
+.booked-date:hover {
+  background-color: #ffcdd2;
+}
